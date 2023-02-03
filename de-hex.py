@@ -1,5 +1,5 @@
 #*******************************************************************
-#* Author = Adam Burnett (@infosecEagle)                           *
+#* Author = Adam Burnett (@infosecEagle / alburnett@gmail.com)     *
 #* simple quick script for turning hex into human readable text    *
 #*                                                                 *
 #*                                                                 *
